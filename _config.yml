@@ -1,20 +1,63 @@
 # Site settings
-title: Arun's Homepage
-description: A blog about Arun Das
-# baseurl: "/particle" # the subpath of your site, e.g. /blog
-# url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+title: Aarya verma homepage
+email: your-email@domain.com
+url: https://example.github.io
+description: "Aarya Verma- my homepage"
+keywords: "Aarya Verma,fyter_112,"
+skills: "Competitive Programming and their applications"
+meta_author: Verma Aarya
 
-# User settings
-username: Arun
-user_description: Hi! My name is Arun Das, a second year undergraduate student at Indian Institute of Information Technology Nagpur. I may also be known as qazz625 or aert online. I specialize in data structures and loving solving puzzles and algorithmic challenges and had been a participant in the ACM-ICPC Regionals. I am an active participant in competitive coding contests on Codechef and Codeforces. For more details feel free to have a look at my resume and profiles give below.
-user_title: Undergraduate Student
-email: arun49804@gmail.com
-twitter_username: lorem_ipsum
-github_username:  qazz625
-gplus_username:  lorem_ipsum
+# Google webmaster tools
+google_verify:
 
-# Google-analytics
-google-analytics:
-  id: ""
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
 
-exclude: ['package.json', 'src' , 'node_modules']
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  primary-rgb: "24,288,156" #"128,179,255"
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  #copyright: Dr. Henry Jekyll
+  location: Location
+  social: Around the Web
+#  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+#  - title: twitter
+  #  url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  #- title: stack-overflow
+  #  url: http://stackoverflow.com/questions/tagged/jekyll
+  #- title: bitbucket
+  #  url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: B 313 Block B
+  - line: IIIT Nagpur,Nagpur
+
+# Credits content
+#credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
