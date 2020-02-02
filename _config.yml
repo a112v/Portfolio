@@ -1,17 +1,17 @@
 # Site settings
-title: Arun's Homepage
-description: A blog about Arun Das
+title: Aarya's Homepage
+description: A blog about Aarya Verma
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Arun
-user_description: Hi! My name is Arun Das, a second year undergraduate student at Indian Institute of Information Technology Nagpur. I may also be known as qazz625 or aert online. I specialize in data structures and loving solving puzzles and algorithmic challenges and had been a participant in the ACM-ICPC Regionals. I am an active participant in competitive coding contests on Codechef and Codeforces. For more details feel free to have a look at my resume and profiles give below.
+username: Aarya
+user_description: Hi! My name is Aarya Verma, a second year undergraduate student at Indian Institute of Information Technology Nagpur. I may also be known as fyter_112 or aert online. I specialize in data structures and algorithmic challenges. I am an active participant in competitive coding contests on Codechef and Codeforces. For more details feel free to have a look at my resume and profiles give below.
 user_title: Undergraduate Student
-email: arun49804@gmail.com
-twitter_username: lorem_ipsum
-github_username:  qazz625
-gplus_username:  lorem_ipsum
+email: aaryaverma112@gmail.com
+#twitter_username: lorem_ipsum
+github_username:  a112v
+#gplus_username:  lorem_ipsum
 
 # Google-analytics
 google-analytics:
